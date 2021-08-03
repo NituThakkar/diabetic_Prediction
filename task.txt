@@ -1,0 +1,10 @@
+1. create requirement.txt
+2. push all the flask app code on github
+        - flask_app
+             - templates
+             - app.py
+             - model.pkl
+             - requirement.txt
+3. create an account on horeku , AWS ( credit / debit)
+4. donwload the apps ( windows user ) - refer ppt slide number 37
+5. create the flask app of all the project ( free tym)
